@@ -2,3 +2,5 @@ ujicoba ujinya tapi takut di khianati
 -membuat akun github
 -mengetahui command dasar GIT
 -integrasi GIT
+-melakukan [raktek GIT
+-melakukan kolaborasi GIT
